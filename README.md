@@ -15,7 +15,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Sambit Monda, a passionate Web Developer and Computer Science student from India
+  Hi, I'm Sambit Mondal, a passionate Web Developer and Computer Science student from India
   <br>
   <br>
   🔬 I'm currently persuing my Bachelors at KIIT University, School of Computer Engineering
@@ -86,12 +86,12 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Sambit-Mondal/URL_Shortener" title="URL Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=URL_Shortener&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sambit-Mondal/PRODIGY_WD_05" title="Weather Application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=PRODIGY_WD_05&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sambit-Mondal/PRODIGY_WD_05" title="Weather WebApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=PRODIGY_WD_05&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Sambit-Mondal/Netflix-Clone" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Netflix-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sambit-Mondal/Music_Streaming_Application" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Music_Streaming_Application&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/Sambit-Mondal/Netflix-Clone" title="Netflix Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Netflix-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sambit-Mondal/Music_Streaming_Application" title="Music Streaming WebApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Music_Streaming_Application&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
