@@ -1,34 +1,99 @@
-[![MasterHead](https://www.yourteaminindia.com/hubfs/Imported_Blog_Media/Top-10-Front-End-Development-Companies-in-2023-Sep-25-2023-10-22-41-1609-AM.jpg)](https://portfolio-sambit.netlify.app/)
-<h1 align="center">Hi 👋, I'm Sambit Mondal</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sambit-Mondal.Sambit-Mondal">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sambit-mondal&label=Profile%20views&color=0e75b6&style=flat" alt="sambit-mondal" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sambit+Mondal....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add471f76f942c15875626af5d/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
-
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-sambit.netlify.app/](https://portfolio-sambit.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap**
-
-- 📫 How to reach me **sambitmondal2005@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sambit-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambit-mondal" height="30" width="40" /></a>
-<a href="https://instagram.com/the.__.maverick__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the.__.maverick__" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sambit mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambit mondal" height="30" width="40" /></a>
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/sambitm02" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/profile/sambitmondal2005" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
+  <code><a href="https://www.instagram.com/_simanaaahinn_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
+<br>
+<p align="center">
+  Hi, I'm Sambit Monda, a passionate Web Developer and Computer Science student from India
+  <br>
+  <br>
+  🔬 I'm currently persuing my Bachelors at KIIT University, School of Computer Engineering
+  <br>
+  🎓 I completed both my Secondary and Senior Secondary from Zoom International School
+  <br>
+  💻 I love writing code and learn about new tehnologies
+  <br>
+  📚 I’m currently exloring Data Structures and Algorithms (DSA) with JAVA
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/Sambit-Mondal">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: sambitmondal2005@gmail.com">sambitmondal2005@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<hr>
+<h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
+<br>
+<p align="center">
+  <code><img title="C" height="25" src="images/c.svg"></code>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="Java" height="25" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+</p>
+<hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sambit-mondal&show_icons=true&locale=en&layout=compact" alt="sambit-mondal" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sambit-Mondal&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/Sambit-Mondal/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Sambit-Mondal/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Mondal&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+    </a>
+  </div>
+  <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sambit-mondal&show_icons=true&locale=en" alt="sambit-mondal" /></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sambit-mondal&" alt="sambit-mondal" /></p>
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Sambit-Mondal/Los-Galacticos" title="Los Galacticos"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Los-Galacticos&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sambit-Mondal/FED_KIIT" title="FED-KIIT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=FED_KIIT&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Sambit-Mondal/URL_Shortener" title="URL Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=URL_Shortener&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sambit-Mondal/PRODIGY_WD_05" title="Weather Application"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=PRODIGY_WD_05&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/Sambit-Mondal/Netflix-Clone" title="Needleman Wunsch Algorithm With OpenMP"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Netflix-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/Sambit-Mondal/Music_Streaming_Application" title="Minesweeper"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Music_Streaming_Application&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+<h4 align="center">
+  <a href="https://github.com/Sambit-Mondal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
