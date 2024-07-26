@@ -53,6 +53,16 @@
 </p>
 <hr>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sambit-Mondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+<hr>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Sambit-Mondal&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
+<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
