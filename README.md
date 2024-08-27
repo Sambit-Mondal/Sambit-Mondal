@@ -86,25 +86,3 @@
 </p>
 
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sambit-Mondal/Los-Galacticos" title="Los Galacticos"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Los-Galacticos&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sambit-Mondal/FED_KIIT" title="FED-KIIT"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=FED_KIIT&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sambit-Mondal/URL_Shortener" title="URL Shortener"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=URL_Shortener&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sambit-Mondal/PRODIGY_WD_05" title="Weather WebApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=PRODIGY_WD_05&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Sambit-Mondal/Netflix-Clone" title="Netflix Clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Netflix-Clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Sambit-Mondal/Music_Streaming_Application" title="Music Streaming WebApp"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Sambit-Mondal&repo=Music_Streaming_Application&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-
-<h4 align="center">
-  <a href="https://github.com/Sambit-Mondal?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
