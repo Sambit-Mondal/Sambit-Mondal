@@ -32,6 +32,10 @@
 </p>
 
 <hr>
+[![Holopin badges](https://holopin.me/sambitmondal)](https://holopin.io/@sambitmondal)
+<br>
+
+<hr>
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
