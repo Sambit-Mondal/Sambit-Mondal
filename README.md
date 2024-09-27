@@ -9,7 +9,7 @@
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sambitm02" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/sambitmondal2005" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://leetcode.com/u/SambitM02/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
+  <code><a href="https://leetcode.com/u/404_userNotFound/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
   <code><a href="https://x.com/Sambit_17" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
   <code><a href="https://www.instagram.com/_simanaaahinn_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
