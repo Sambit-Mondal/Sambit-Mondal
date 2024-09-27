@@ -24,7 +24,7 @@
   <br>
   💻 I love writing code and learn about new tehnologies
   <br>
-  📚 I’m currently exloring Data Structures and Algorithms (DSA) with JAVA
+  📚 I’m currently exloring Data Structures and Algorithms (DSA) with C++
   <br>
   💬 Ask me anything about from <a href="https://github.com/Sambit-Mondal">Here</a>
   <br>
