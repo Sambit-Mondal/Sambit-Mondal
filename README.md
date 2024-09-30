@@ -6,6 +6,14 @@
   </a>
 </h1>
 
+<br>
+
+<div width=100% align=center>
+  <img width=80% height=380px src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="Coding gif">
+</div>
+
+<br>
+
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/sambitm02" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/profile/sambitmondal2005" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
