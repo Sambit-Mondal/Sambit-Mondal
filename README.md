@@ -31,6 +31,8 @@
   📫 How to reach me: <a href="mailto: sambitmondal2005@gmail.com">sambitmondal2005@gmail.com</a>
 </p>
 
+[![An image of @sambitmondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sambitmondal)](https://holopin.io/@sambitmondal)
+
 <hr>
 <h2 align="center">🔥 Languages, Frameworks & Tools 🔥</h2>
 <br>
