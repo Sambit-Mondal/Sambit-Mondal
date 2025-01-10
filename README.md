@@ -96,7 +96,6 @@
 
 </div>
 
-###
 <br>
 <h2 align="left">🎵 My Spotify Stats:</h2>
 
@@ -105,12 +104,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
   </div>
-###
-<br>
-<h3 align="left">😂 Snake Contribution Graph!</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sambit-Mondal/Sambit-Mondal/output/snake.svg" alt="Snake animation" />
-
-###
