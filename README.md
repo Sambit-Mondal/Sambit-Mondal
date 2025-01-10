@@ -80,17 +80,8 @@
 
 ## ⚡ Stats
 <br>
-<p align=center>
-  <div align=center width=100%>
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=Sambit-Mondal)](https://git.io/streak-stats)
-    <a href="https://github.com/denvercoder1/github-readme-stats" title="Go to Source">
-      <img width=350 src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
-    </a>
-    <a href="https://github.com/denvercoder1/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambit-Mondal&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=108&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-  </div>
-  <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sambit-Mondal&theme=dark&border_radius=13.7" alt="GitHub Streak" /></a>
+<br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
