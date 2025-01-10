@@ -92,7 +92,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sambit-Mondal&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="140" alt="activity-graph graph"  />
   <a href="https://open.spotify.com/user/314nsvb6rf2wiw5vuav3sfvn42kq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=3&unique=true" alt="Spotify recently played"  />
   </a>
