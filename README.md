@@ -80,7 +80,11 @@
 
 ## ⚡ Stats
 <br>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Sambit-Mondal&theme=dark&border_radius=13.7" alt="GitHub Streak" /></a>
+<div align=center width=100%>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&theme=dark&border_radius=13.7" alt="GitHub Streak" />
+</a>
+</div>
 <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
