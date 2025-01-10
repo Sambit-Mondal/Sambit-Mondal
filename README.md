@@ -1,91 +1,116 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sambit-Mondal.Sambit-Mondal">
+<div align="center">
+  <img height="380" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY1NDUxODEsIm5iZiI6MTczNjU0NDg4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEwVDIxMzQ0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA0NTE3YmNhNTc1YjkwMDExOTM0MGM1NDhlNjYxYTU2OWM0MWJlYjYzYmJjYzAyYjE4YjA3MmU1OWI5NDEwYzEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.OAmmNbH0o4d41_Vgv01_V_o3HblFBkgFdBQnaW3eHU4"  />
+</div>
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Sambit+Mondal....;Nice+to+meet+you!&center=true&size=30">
+###
+
+<div align="center">
+  <a href="https://linkedin.com/in/sambitm02" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-</h1>
-
-<br>
-
-
-<div width=100% align=center>
-  <img width=80% height=380px src="https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif" alt="Coding gif">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
 
-<br>
+###
 
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/sambitm02" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/profile/sambitmondal2005" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
-  <code><a href="https://leetcode.com/u/404_userNotFound/" title="Leetcode Profile"><img width="22" src="images/leetcode.svg"> Leetcode</a></code>
-  <code><a href="https://x.com/Sambit_17" title="Twitter Profile"><img width="22" src="images/twitter.png"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/_simanaaahinn_/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Sambit Mondal, a passionate Web Developer and Computer Science student from India
-  <br>
-  <br>
-  🔬 I'm currently persuing my Bachelors at KIIT University, School of Computer Engineering
-  <br>
-  🎓 I completed both my Secondary and Senior Secondary from Zoom International School
-  <br>
-  💻 I love writing code and learn about new tehnologies
-  <br>
-  📚 I’m currently exloring Data Structures and Algorithms (DSA) with C++
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/Sambit-Mondal">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: sambitmondal2005@gmail.com">sambitmondal2005@gmail.com</a>
-</p>
+<br clear="both">
 
-<hr>
-
-## 🔥 Languages, Frameworks & Tools
-
-<br>
-<p align="center">
-  <code><img title="C" height="50" src="images/c.svg"></code>
-  <code><img title="Javascript" height="50" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="50" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="50" src="images/html5.svg"></code>
-  <code><img title="CSS" height="50" src="images/css.svg"></code>
-  <code><img title="React" height="50" src="images/react-original.svg"></code>
-  <code><img title="Git" height="50" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="50" src="images/visualstudio.png"></code>
-  <code><img title="JQuery" height="50" src="images/jquery-original.svg"></code>
-  <code><img title="Java" height="50" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="50" src="images/json.svg"></code>
-  <code><img title="GitHub" height="50" src="images/github.svg"></code>
-  <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
-  <code><img title="npm" height="50" src="images/npm.svg"></code>
-</p>
-<hr>
-
-## 🏆 GitHub Trophies
-<div align=center width=100%>
-  
-![](https://github-profile-trophy.vercel.app/?username=Sambit-Mondal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sambit-Mondal/count.svg?"  />
 </div>
 
-<hr>
+###
 
-## 📛 Holopin Badges
-[![An image of @sambitmondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sambitmondal)](https://holopin.io/@sambitmondal)
+<h2 align="center">Hey There, I'm Sambit Mondal!👋</h2>
 
-<hr>
+###
 
-## ⚡ Stats
-<br>
-<div align=center width=100%>
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&theme=dark&border_radius=13.7" alt="GitHub Streak" />
-</a>
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Sambit Mondal from Durgapur, West Bengal<br><br>- 🔭 I’m a student, currently persuing B.Tech in Computer Science and Engineering at KIIT University, Bhubaneswar.<br>- 📚 I'm currently learning Machine Learning and Artificial Intelligence.<br>- ⚡ In my free time I love to play guitar!</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="113" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sambit-Mondal&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/314nsvb6rf2wiw5vuav3sfvn42kq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">😂 Snake Contribution Graph!</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/Sambit-Mondal/Sambit-Mondal/output/snake.svg" alt="Snake animation" />
+
+###
