@@ -23,19 +23,20 @@
 
 ###
 
-<h2 align="center">Hey There, I'm Sambit Mondal!👋</h2>
+<h1 align="center">Hey There, I'm Sambit Mondal!👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
 <p align="left">I'm Sambit Mondal from Durgapur, West Bengal<br><br>- 🔭 I’m a student, currently persuing B.Tech in Computer Science and Engineering at KIIT University, Bhubaneswar.<br>- 📚 I'm currently learning Machine Learning and Artificial Intelligence.<br>- ⚡ In my free time I love to play guitar!</p>
 
 ###
-
-<h3 align="left">🛠 Language and tools</h3>
+<br>
+<h2 align="left">🛠 Language and tools</h2>
+<hr>
 
 ###
 
@@ -84,26 +85,23 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br>
+<h2 align="left">🔥   My Stats :</h2>
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="113" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sambit-Mondal&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="211" alt="activity-graph graph"  />
+  <a href="https://open.spotify.com/user/314nsvb6rf2wiw5vuav3sfvn42kq">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=3&unique=true" alt="Spotify recently played"  />
+  </a>
+
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/314nsvb6rf2wiw5vuav3sfvn42kq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
