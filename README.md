@@ -100,7 +100,7 @@
 <br>
 <h2 align="left">🎵 My Spotify Stats:</h2>
 
-  <div>
+  <div align="center">
   <a href="https://open.spotify.com/user/314nsvb6rf2wiw5vuav3sfvn42kq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314nsvb6rf2wiw5vuav3sfvn42kq&count=5&unique=true" alt="Spotify recently played"  />
   </a>
