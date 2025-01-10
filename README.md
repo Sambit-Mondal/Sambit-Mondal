@@ -82,9 +82,7 @@
 <br>
 <p align=center>
   <div align=center width=100%>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img width=350 src="https://streak-stats.demolab.com/?user=Sambit-Mondal&theme=react&border=61dafb&hide_border=true" alt="Sambit-Mondal" />
-    </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=Sambit-Mondal)](https://git.io/streak-stats)
     <a href="https://github.com/denvercoder1/github-readme-stats" title="Go to Source">
       <img width=350 src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&show_icons=true&theme=react&border_color=61dafb&hide_border=true"/>
     </a>
