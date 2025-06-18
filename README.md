@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Sambit Mondal from Durgapur, West Bengal<br><br>- 🔭 I’m a student, currently persuing B.Tech in Computer Science and Engineering at KIIT University, Bhubaneswar.<br>- 📚 I'm currently learning Machine Learning and Artificial Intelligence.<br>- ⚡ In my free time I love to play guitar!</p>
+<p align="left">I'm Sambit Mondal from Durgapur, West Bengal<br><br>- 🔭 I’m a student, currently persuing B.Tech in Computer Science and Engineering at KIIT University, Bhubaneswar.<br>- 📚 I'm currently exploring DSA in JAVA.<br>- ⚡ In my free time I love to travel and explore or watch travel-related vlogs!</p>
 
 ###
 <br>
