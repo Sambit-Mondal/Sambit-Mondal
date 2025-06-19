@@ -27,7 +27,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left">👩‍💻  About Me:</h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 <br>
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools:</h2>
 
 ###
 
@@ -85,7 +85,7 @@
 
 ###
 <br>
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats:</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
@@ -97,6 +97,14 @@
 </div>
 
 <br>
+
+<h2 align="left">📌 My Holopin Board:</h2>
+
+[![An image of @sambitmondal's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sambitmondal)](https://holopin.io/@sambitmondal)
+
+
+<br>
+
 <h2 align="left">🎵 My Spotify Stats:</h2>
 
   <div align="center">
