@@ -98,7 +98,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sambit-Mondal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1" height="140" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sambit-Mondal&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=10&theme=vision-friendly-dark&hide_border=false&order=2" height="140" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Sambit-Mondal&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=false&border_radius=5&order=3" height="140" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=Sambit-Mondal&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambit-Mondal&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
