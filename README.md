@@ -4,13 +4,13 @@
 
 ###
 
-<div align="center"><a href="https://github.com/Sambit-Mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sambit-Mondal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sambitm02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambitm02" height="30" width="40" /></a>
-<a href="https://instagram.com/eros.x_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eros.x_" height="30" width="40" /></a>
-<a href="https://twitter.com/Sambit_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sambit_17" height="30" width="40" /></a>
-<a href="https://hackerrank.com/sambitmondal2005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambitmondal2005" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/404_userNotFound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="404_userNotFound" height="30" width="40" /></a>
-<a href="https://leetcode.com/dev_Sambit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_Sambit" height="30" width="40" /></a>
+<div align="center"><a href="https://github.com/Sambit-Mondal" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sambit-Mondal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sambitm02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sambitm02" height="30" width="40" /></a>
+<a href="https://instagram.com/eros.x_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eros.x_" height="30" width="40" /></a>
+<a href="https://twitter.com/Sambit_17" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sambit_17" height="30" width="40" /></a>
+<a href="https://hackerrank.com/sambitmondal2005" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sambitmondal2005" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/404_userNotFound" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="404_userNotFound" height="30" width="40" /></a>
+<a href="https://leetcode.com/dev_Sambit" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dev_Sambit" height="30" width="40" /></a>
 </div>
 
 ###
