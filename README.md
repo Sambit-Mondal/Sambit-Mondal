@@ -25,13 +25,13 @@
 
 <div align="left">
   
-  - 🔭 I'm currently working on **architecting a scalable SaaS solution that simplifies developer workflows.**
-  - 🌱 I'm currently learning **advanced System Design patterns and Cloud-Native orchestration (Kubernetes).** <br/>
-  - 👯 I'm looking to collaborate on **open-source projects that solve tangible problems in the fintech or ed-tech space.** <br/>
-  - 🤝 I'm looking for help with **optimizing database queries for high-concurrency environments.** <br/>
-  - 💬 Ask me about **building responsive UI systems, clean code architecture, and product roadmapping.** <br/>
-  - 📫 Reach me at: **sambitmondal2005@gmail.com** <br/>
-  - ⚡ Fun fact: **I treat my git commit messages like detailed diary entries, where, context is everything.**
+🔭 I'm currently working on **Nexus Copilot** — a distributed RAG copilot for financial insights using Python, FastAPI, gRPC, and Pinecone.
+🌱 I'm currently learning **advanced System Design patterns and Cloud-Native orchestration.** <br/>
+👯 I'm looking to collaborate on **open-source projects that solve tangible problems in the fintech or ed-tech space.** <br/>
+💬 Ask me about **distributed systems, RAG pipelines, high-throughput backend architecture, clean code architecture, and product roadmapping.** <br/>
+🏆 **Google Student Ambassador '25** (top 0.1%) **·** **3× Hackathon Winner** **·** LeetCode 1672 <br/>
+📫 Reach me at: **sambitmondal2005@gmail.com** <br/>
+⚡ Fun fact: **I treat my git commit messages like detailed diary entries, where, context is everything.**
 
 </div>
 
