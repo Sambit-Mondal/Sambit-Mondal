@@ -25,13 +25,12 @@
 
 <div align="left">
   
-🔭 I'm currently working on **Nexus Copilot** — a distributed RAG copilot for financial insights using Python, FastAPI, gRPC, and Pinecone.
-🌱 I'm currently learning **advanced System Design patterns and Cloud-Native orchestration.** <br/>
-👯 I'm looking to collaborate on **open-source projects that solve tangible problems in the fintech or ed-tech space.** <br/>
+🔭 I'm currently working on **personality-maxxing**. <br/>
+🌱 I'm currently learning **advanced System Design patterns** <br/>
 💬 Ask me about **distributed systems, RAG pipelines, high-throughput backend architecture, clean code architecture, and product roadmapping.** <br/>
-🏆 **Google Student Ambassador '25** (top 0.1%) **·** **3× Hackathon Winner** **·** LeetCode 1672 <br/>
+🏆 **Google Student Ambassador '25** (top 0.1%) **·** **3× Hackathon Winner** <br/>
 📫 Reach me at: **sambitmondal2005@gmail.com** <br/>
-⚡ Fun fact: **I treat my git commit messages like detailed diary entries, where, context is everything.**
+⚡ Fun fact: **I'm a human being :)**
 
 </div>
 
@@ -99,6 +98,17 @@
 
 </div>
 
+
+###
+<br>
+<h2 align="left">📈   Leetcode Stats:</h2>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/dev_Sambit?theme=dark&font=Courier&ext=contest" />
+</div>
+
+
+###
 <br>
 
 <h2 align="left">📌 My Holopin Board:</h2>
