@@ -113,13 +113,13 @@
 
 <div align="center">
 <a href="https://www.credly.com/users/sambit-mondal.30f65fb7/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/stats?username=sambit-mondal.30f65fb7&theme=radical&card_width=500" alt="sambit-mondal.30f65fb7's Credly stats card" />
+  <img src="https://credly-readme-stats.onrender.com/api/stats?username=sambit-mondal.30f65fb7&theme=radical&card_width=800" alt="sambit-mondal.30f65fb7's Credly stats card" />
 </a>
 <a href="https://www.credly.com/users/sambit-mondal.30f65fb7/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/timeline?username=sambit-mondal.30f65fb7&theme=radical" alt="sambit-mondal.30f65fb7's Credly timeline card" />
+  <img src="https://credly-readme-stats.onrender.com/api/timeline?username=sambit-mondal.30f65fb7&theme=radical&card_width=800" alt="sambit-mondal.30f65fb7's Credly timeline card" />
 </a>
 <a href="https://www.credly.com/users/sambit-mondal.30f65fb7/badges">
-  <img src="https://credly-readme-stats.onrender.com/api/grid?username=sambit-mondal.30f65fb7&theme=radical&columns=5&rows=10&badge_size=112&show_issuer=true" alt="sambit-mondal.30f65fb7's Credly grid card" />
+  <img src="https://credly-readme-stats.onrender.com/api/grid?username=sambit-mondal.30f65fb7&theme=radical&columns=5&rows=10&badge_size=112&show_issuer=true&card_width=800" alt="sambit-mondal.30f65fb7's Credly grid card" />
 </a>
 </div>
 
